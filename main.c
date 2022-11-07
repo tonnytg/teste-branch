@@ -1,3 +1,6 @@
-hello
+#include <stdio.h>
 
-branch develop
+int main() {
+	printf("Hello World");
+	return 0;
+}
